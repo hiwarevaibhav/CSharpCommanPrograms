@@ -1,0 +1,13 @@
+C:\Users\Vaibhav\source\repos\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.exe
+C:\Users\Vaibhav\source\repos\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.deps.json
+C:\Users\Vaibhav\source\repos\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.runtimeconfig.json
+C:\Users\Vaibhav\source\repos\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.runtimeconfig.dev.json
+C:\Users\Vaibhav\source\repos\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.dll
+C:\Users\Vaibhav\source\repos\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.pdb
+C:\Users\Vaibhav\source\repos\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.csprojAssemblyReference.cache
+C:\Users\Vaibhav\source\repos\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.AssemblyInfoInputs.cache
+C:\Users\Vaibhav\source\repos\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.AssemblyInfo.cs
+C:\Users\Vaibhav\source\repos\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.csproj.CoreCompileInputs.cache
+C:\Users\Vaibhav\source\repos\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.dll
+C:\Users\Vaibhav\source\repos\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.pdb
+C:\Users\Vaibhav\source\repos\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.genruntimeconfig.cache
