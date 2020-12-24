@@ -52,7 +52,7 @@ namespace CSharpPrograms
 
         public void FindCharactersAndCountInString()
         {
-
+            Dictionary<char, int> charcount = new Dictionary<char, int>();
         }
     }
 }
