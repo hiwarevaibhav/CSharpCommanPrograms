@@ -49,5 +49,10 @@ namespace CSharpPrograms
                 Console.Write(splitedWords[i] + "" + ' ');
             }
         }
+
+        public void FindCharactersAndCountInString()
+        {
+
+        }
     }
 }
