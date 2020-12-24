@@ -50,9 +50,13 @@ namespace CSharpPrograms
             }
         }
 
-        public void FindCharactersAndCountInString()
+        public void FindCharactersAndCountInString(string str)
         {
             Dictionary<char, int> charcount = new Dictionary<char, int>();
+            for (int i = 0; i < str.Length; i++)
+            {
+
+            }
         }
     }
 }
