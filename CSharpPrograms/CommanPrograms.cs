@@ -58,6 +58,7 @@ namespace CSharpPrograms
             {
 
             }
+            int a = 0;
         }
     }
 }
