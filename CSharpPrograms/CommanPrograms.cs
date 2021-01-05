@@ -88,5 +88,9 @@ namespace CSharpPrograms
                 Console.WriteLine("{0} - {1}", character.Key, character.Value);
             }
         }
+
+        public void Factorial(int number)
+        { 
+        }
     }
 }
