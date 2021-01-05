@@ -51,16 +51,42 @@ namespace CSharpPrograms
             int x = 0;
         }
 
-        public void FindCharactersAndCountInString(string str)
+        public void CountCharactersInString(string str)
         {
-            Dictionary<char, int> charcount = new Dictionary<char, int>();
-            for (int i = 8; i < str.Length; i++)
+            Dictionary<char, int> charAndCount = new Dictionary<char, int>();
+            char[] charArray = str.ToCharArray();
+            //for (int i = 0; i < str.Length - 1; i++)
+            //{
+            //    if (!charAndCount.ContainsKey(charArray[i]))
+            //    {
+            //        charAndCount.Add(charArray[i], 1);
+            //    }
+            //    else
+            //    {
+            //        charAndCount[charArray[i]]++;
+            //    }
+            //}
+
+            foreach (var character in str)
             {
+                if (character != ' ')
+                {
+                    if (!charAndCount.ContainsKey(character))
+                    {
+                        charAndCount.Add(character, 1);
+                    }
+                    else
+                    {
+                        charAndCount[character]++;
+                    }
+                }
 
             }
-            int a = 0;
+
+            foreach (var character in charAndCount)
+            {
+                Console.WriteLine("{0} - {1}", character.Key, character.Value);
+            }
         }
-        int a = 11;
-        int c = 14;
     }
 }

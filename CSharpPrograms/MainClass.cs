@@ -10,6 +10,7 @@ namespace CSharpPrograms
             commanPrograms.ReverseString("Hiware");
             commanPrograms.Palindrome("19");
             commanPrograms.ReverseWordsOfString("Hi i am vaibhav");
+            commanPrograms.CountCharactersInString("abbcccdddd");
         }
     }
 }
