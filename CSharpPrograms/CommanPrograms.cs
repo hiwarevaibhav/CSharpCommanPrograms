@@ -90,7 +90,9 @@ namespace CSharpPrograms
         }
 
         public void Factorial(int number)
-        { 
+        {
+            int a = 10;
+
         }
     }
 }
