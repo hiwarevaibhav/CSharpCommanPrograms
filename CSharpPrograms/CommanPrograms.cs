@@ -16,6 +16,7 @@ namespace CSharpPrograms
             }
             string reversedString = new string(charArray);
             Console.WriteLine("Reverse of string " + str + " is " + reversedString);
+            Console.WriteLine("Reverse of string");
         }
 
         public void Palindrome(string str)
